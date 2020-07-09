@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on 精煉阿宅之路</title>
+    <link>https://TingHuanClay.github.io/tags/learning/</link>
+    <description>Recent content in Learning on 精煉阿宅之路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 09 Jul 2020 21:58:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://TingHuanClay.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let&#39;s take a look on Data Binding in Angular</title>
+      <link>https://TingHuanClay.github.io/blog/angular_data_binding/</link>
+      <pubDate>Thu, 09 Jul 2020 21:58:00 +0800</pubDate>
+      
+      <guid>https://TingHuanClay.github.io/blog/angular_data_binding/</guid>
+      <description>因為專案的關係 這陣也開始使用Angular作前端的開發工作
+在學習Angular的過程中，除了跟著官網提供的Hero App Tutorial學習之外
+其實也是邊看既有專案以及網路神人們的教學文章邊學習
+最近打算花點時間 把這陣子學到的經驗記錄下來
+過程中首先遇到需要釐清的部分就是 Data Binding</description>
+    </item>
+    
+  </channel>
+</rss>
